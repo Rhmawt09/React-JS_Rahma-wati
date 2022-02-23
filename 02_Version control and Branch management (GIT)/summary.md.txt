@@ -1,0 +1,33 @@
+Section 1. Version control and Branch Management (GIT)
+
+versioning adalah Versioning adalah proses dimana dokumen masuk dan keluar diperiksa dalam document management system, yang memungkinkan pengguna untuk menggambil versi sebelumnya dan untuk melanjutkan pekerjaan dari titik acuan yang telah dipilih. 
+Versioning sangat berguna bagi dokumen yang terus berubah dari waktu kewaktu dan yang memerlukan pembaharuan, tapi tetap dapat kembali atau mereferensi ke salinan sebelumnya untuk mengatur versi dari source code program.
+versioning memiliki beberapa tools yaitu 
+1. version control system (VCS)
+2. Source code manager (SCM)
+3. Revision control system (RCS)
+
+Version Control System (VCS) adalah sistem yang mengelola pengembangan objek yang berkembang. 
+Dengan kata lain, ini adalah sistem yang merekam setiap perubahan yang dilakukan oleh pengembang perangkat lunak.
+dimana Vcs terdiri beberapa yaitu Single user, Centralized dan distributed.
+
+GIT merupakan salah satu version control system yang sangat populer digunakan para developer untuk mengembangkan software secara bersama-sama.
+Git adalah sebuah Distributed Versiont Control (DVC)dan Source Code Management (SCM) dengan penekanan pada kecepatan (Torvalds, 2005:list.linux-kernel).
+Git Server dapat dimanfaatkan seperti, 
+1. mengerjakan tugas kelompok mata kuliah pemrograman
+2. mengembangkan aplikasi secara bersama-sama, 
+3. berbagi sourcecode dengan cepat dan mudah, 
+4. serta siapapun dapat melihat dan men-download sourcecode yang diunggah ke Git Server.
+
+Instal GIT di window.
+Pergi ke alamat msysgit.github.io, kemudian unduh versi installer terbaru untuk windows,jalankan berkas installer dan abaikan semua pilihan, atur ke nilai default. 
+Setalah itu Gitsiap dijalankan pada sistem anda. 
+menginstal Git untuk windows dapat menggunakanpaket cygwin yang tersedia di cygwin.com
+
+Memulai GIT pada window
+Untuk mengkonfigurasi Git agar dapat bekerja dan berjalan, jalankan perintah:
+
+$ git config --global user.name "Nama Lengkap"
+$ git config --global user.email "email@example.com"
+
+Perintah tersebut harus dikonfigurasi karena pengaturan user.name dan user.emailakan disimpan dalam setiap commit yang anda buat.
