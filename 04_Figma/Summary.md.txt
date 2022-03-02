@@ -1,0 +1,18 @@
+Studi Independen with Altera Academy
+Materi FIGMA.
+
+figma adalah editor grafis vektor dan alat prototyping terutama berbasis web. 
+dengan fitur offline tambahan yang diaktifkan oleh aplikasi desktop untuk macOS dan windows.
+
+Kelebihan/ Advantages figma :
+1. Berbasis gratis (untuk 2 pengguna dan 3 editan dalam 1 akun)
+2. dapat bekerja di Mac and PC
+3. dapat berkolaborasi dengan team
+4. bisa mengimpor sketch file.
+5. developer yang terintegrasi di Mac on PC
+6. sistem yang hebat untuk design bersama team
+6. prototipe yang terintegrasi kualitas tinggi
+
+Kelemahan/disadvantages figma :
+harus selalu online dan memiliki jaringan. 
+

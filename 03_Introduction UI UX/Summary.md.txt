@@ -1,0 +1,35 @@
+INTRODUCTION UI/UX
+Studi Independen with Altera Academy
+
+User Experience (UX)
+User Experience atau UX merupakan semua hal yang dirasakan pengguna ketika menggunakan product.
+
+5 Tahapan dalam UX Design Thinking.
+1. Emphatize = Mencari hal yang dibutuhkan oleh pengguna
+2. Define = menyatakan yang dibutuhkan pengguna dan permasalahannya
+3. Ideate = membuat asumsi dan menciptakan ide
+4. Prototype = memulai untuk membuat solusi
+5. Validate = mencoba solusi anda
+
+didalam tahap emphatize akan dimulai dengan melakukan user persona yang dimana user persona adalah adalah jenis profil pengguna aktual sesuai dengan harapan, kebutuhan, tujuan, dan pola perilaku yang diamati
+karna anda harus tau profil pengguna terlebih dahulu dengan melakukan observasi.
+
+didalam tahap define anda harus menganalisis pengamatan anda mengenai yang dibutuhkan pengguna dan masalahnya
+lalu disusun seperti tesis untuk mendapatkan masalah inti dari permasalahan yang sudah anda observasi.
+
+User Interface (UI)
+UI merupakan tampilan produk anda yang digunakan oleh pengguna.
+
+4 Hal Penting didalam Design UI.
+1. Konsisten dalam artian ketika mendesign haruslah menggunakan urutan yang konsisten atau sama dan pola desain yang sama serta berurutan.
+2. mendesain dengan simple
+3. tipografi yang baik
+4. menawarkan feedback dari informasi
+
+PROTOTYPE 
+merupakan simulasi atau contoh sampel dari produk akhir atau desain akhir
+tujuan adanya prototype untuk menguji produk akhir.
+prototype memiliki 3 pilar :
+1. representation
+2. precision
+3. interactivity

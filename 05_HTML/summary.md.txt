@@ -1,0 +1,48 @@
+Studi Independen with Altera Academy.
+Materi HTML (Hypertext markup Language)
+Front-end development.
+cascading styles sheet (CSS)
+
+Front-end merupakan bagian dari website yang membuat tampilan menarik kepada user.
+HTML atau hypertext markup language adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web.
+kegunaan HTML :
+1. membuat strukutur dari halaman website
+2. mengatur tampilan dan isi halaman website
+3. membuat table dengan tag HTML Table
+4. membuat form HTML
+5. membuat gambar dengan canvas
+6. mempublikasikan halaman website secara online
+
+HTML Editors :
+1. VSCode
+2. Notepad++
+
+Dokumentasi HTML
+<! DOCTYPE html> mendefinisikan html ini sebagai HTML5
+<html> elemen root dari halaman html
+<head> berisi informasi meta tentang dokumen
+<title> menentukan judul untuk dokumen 
+<body> berisi konten halaman yang terlihat
+
+Styling pada paragraph HTML
+<strong> membuat text lebih tebal </strong>
+<em> penekanan pada text menjadi italic </em>
+<s> membuat garis tercoret </s>
+<br/> (line break, membuat garis baru)
+
+2 Jenis list dalam HTML
+1. Ordered list adalah list yang berurut (<o|>)
+2. unordered list adalah list yang tar berurut (<u|>)
+
+Analogi CSS (Cascading styles sheet)
+untuk dapat menghias halaman web dari color, size, font, background, width, height dll)
+dan dapat mengatur posisi halaman web (float,align, display, position, dll)
+
+3 cara menambahkan CSS kedalam HTML
+1. External CSS 
+2. Internal CSS
+2. Inline CSS
+
+W3Schools.com sebagai website tempat belajar mengenai HTML dan React JS.
+Freecodecamp.org website belajar HTML
+

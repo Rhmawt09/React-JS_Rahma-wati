@@ -31,3 +31,17 @@ $ git config --global user.name "Nama Lengkap"
 $ git config --global user.email "email@example.com"
 
 Perintah tersebut harus dikonfigurasi karena pengaturan user.name dan user.emailakan disimpan dalam setiap commit yang anda buat.
+
+
+Navbar/header yaitu 
+hero section dibawah navbar diibaratkan bagian pertama yang dilihat pengguna contoh nya walpaper tampilan website jika tidak hero section bisa jadi carousell lebih ke tammpilan awal webiste
+untuk pemilihan antara hero section atau carousell atau video section tergantung penggunaan
+footer adalah bagian bawah dari sebuah halaman website, seberapa penting footer 
+color pallete yaitu pemilihan warna, haruslah mempelajari hastagh warna menggunakan ekscollour
+dribbledwinawan. kebanyakan di medium mengenai ui/ux.
+UX kayak button dan pandangan
+UI lebih ke collour ke pemilihan font dan design website.
+navigasi linear 
+navigasi hamburger
+
+buatlah design UI/UX dibuat FIGMA dari website tugas sebelumnya. prototype itu dari design figma tersebut.
