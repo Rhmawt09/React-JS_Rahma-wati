@@ -1,0 +1,55 @@
+Studi Independen with Altera Academy
+Materi Cascading style sheet (CSS).
+
+Cascading style sheet (CSS) diperuntukan untuk menghias halaman website yang dimana menentukan color, font, size background and width and height.
+dan juga dapat mengatur posisi halaman website yaitu float, align, display, position dll.
+
+sebuah website tanpa menggunakan CSS hanya akan terlihat seperti ruang kosong tidak menarik dan jika menggunakan CSS pada website akan menambahkan kesan menarik dan membuat pengguna 
+sangat tertarik akan menggunakan website tersebut.
+
+3 cara menambahkan file CSS ke dalam HTML. 
+1. External CSS
+pada external css untuk menambahkan file CSS ke dalam HTML dengan syntax ini disisipkan ke dalam tag <head> pada html.
+eksistensi file css adalah .css
+
+2. Internal CSS
+Pada Internal CSS untuk menambahkan file CSS ke dalam HTML, syntax ini dapat digunakan dalam satu file dengan html.
+didefinisikan dalam elemen <style>, didalam bagian <head> atau didalam bagian <body>
+
+3. Inline CSS
+syntax ini dapat digunakan untuk elemen tunggal pada html. di prioritas kan untuk menerapkan style yang unik.
+
+CSS Selector merupakan pola yang digunakan untuk memilih elemen yang ingin di styling.
+penanda HTML ke dalam css, dapat menggunakan selector Id dan class.
+ID = (#)
+1. setia
+2. P elemen hanya dapat 1 tag id
+3. dalam satu halaman tidak boleh ada dua penamaan dalam id yang berbeda
+
+Class = (.)
+1. Tag class dengan nama yang sama dapat dipakai berulang-ulang pada satu halaman
+2. satu elemen boleh memiliki lebih dari satu class yang berbeda
+
+CSS Grouping dimana beberapa selector dapat dikelompokkan dalam satu deklarasi style.
+
+CSS Font 
+Beberapa CSS font properties :
+Font = menetapkan semua propoerties font dalam satu deklarasi
+Font-Size = menentukan ukuran font-teks
+Font-Family = Menentukan kelompok font teks
+Font-weight = menentukan ketebalan untuk font teks
+Font-style = menentukan font teks menjadi miring
+
+CSS Margin and Padding = membuat ruang disekitar element
+
+CSS Background = menentukan background yang akan digunakan pada suatu element
+
+CSS Link Event 
+beberapa css link :
+:hover = kondisi style ketika mouse berada diatas elemen
+:active = ketika link "a" ditekan
+:visited = style ketika elemen "a" telah dikunjungi
+
+CSS Display untuk mennetukan tampilan pada elemen
+
+CSS Table untuk membuat style pada elemen table HTML.
