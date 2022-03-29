@@ -1,0 +1,32 @@
+
+BOOTSSTRAP
+
+Membuat welcome page in bootstrap
+- Navbar terdiri dari
+1. Brand e Navbar
+2. Responsive
+3. Dropdown
+4. Menu Navbar
+
+- Main Welcome
+1. Text welcome
+2. Main foto
+3. Link
+4. Background
+
+membuat contact page
+- Navbar
+1. fixed
+
+- contact page
+1. form
+2. detail icon and text
+3. footer
+
+-conditional
+-mapping/pemetaan tata letak design
+get bootstrap
+ memakai implementasi <rem untuk mentrafsirkan persentase atau px
+
+https://getbootstrap.com/docs/4.0/components/dropdowns/#accessibility (Link Pembelajaran Bootstrap)
+

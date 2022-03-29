@@ -1,0 +1,52 @@
+MATERI JAVASCRIPT REFRESHMENT.
+
+Javascript merupakan bahasa pemrograman yang dimana bisa di compare ke user.
+javascript sangat akrab dengan browser dimana memiliki high-level yang dimana bahasa yang dikhususkan membuat web, untyped dan interpreted.
+di javascript hanya perlu memasukan nilai saja.
+Javascript gampang dipelajari tetapi susah untuk dikuasai.
+
+Var, let dan const merupakan variabel yang bisa mendeklarasikan,scoping meletakan, hoisting tata letak yang tentang pemanggilan setelah atau sesudah.
+
+Declaration proses pembuatan variabel untuk menyimpan data.
+Var jarang digunakan
+let digunakan saat kita membutuhkan nilai yang dapat diubah bersifat mutable.
+const saat kita membuthkan nilai yang tidak bisa di reassign. bersifat immutable.
+
+function mengeksekusi bagian yang ada didalamnya. tujuan mengkontakkan atau membuat program yang kita buat jadi berhasil.
+
+global bisa dipanggil dimana saja
+function hanya bisa dipanggil di bagian function saja
+
+https://replit.com/
+
+Primitive merupakan struktur terkecil dari code.
+string adalah kata yang diapit tanda petik. var kata
+boolean adalah pilihan true atau false. var bool
+number adalah huruf var num
+Object harus v sama value. var obj.
+console.log("saya " + obj.name + "umur saya " + obj.umur)
+
+object dan array, object akan tersimpan object dan array maka akan keluar nilai.
+array mempunyai urutan atau indeks js dimulai dari 0, untuk memanggil array dapat menggunakan angka indeksnya.
+
+spread syntax, spread dapat dipakai untuk object dan array.
+syntax spreed untuk menggabungkan data pada javascript.
+
+method pada array.
+method merupakan sebuah fungsi yang terkait dengan object, membuat program sesederhana mungkin sesuai kegunaan masing-masing.
+
+foreach atau perulangan, serangkaian data yang dimana kita ingin mengulang data tersebut
+slice mengambil sebagian data array, atau ingin mengambil data di bagian index mana.
+concat menggabungkan dua atau lebih array dan mengembalikan salinan array yang digabungkan.
+map membuat array baru dengan hasil memanggil fungsi untuk setiap elemen array. Map menyimpan indeks
+filter untuk memfiltering semua array yang lulus seleksi.
+reduce untuk melakukan operasi aritmatika
+
+control flow mengeksesusi program sesuai keinginan kita.
+- pengulangan (loop/iterasi) for,while, do while
+- pengkondisian
+
+math.cel untuk js fungsi membulatkan bilangan.
+
+
+

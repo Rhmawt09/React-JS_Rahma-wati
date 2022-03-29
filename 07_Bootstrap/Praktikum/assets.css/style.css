@@ -1,0 +1,14 @@
+a{
+    color: grey!important;
+}
+a:hover{
+    color: green !important;
+}
+.text.welcome {
+    margin-top: 100px !important;
+    font-family: "Philosopher", sans-serif;
+}
+
+.footer {
+    padding: 10rem 0px;
+}

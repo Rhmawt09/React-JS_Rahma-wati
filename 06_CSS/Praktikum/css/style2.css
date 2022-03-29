@@ -1,0 +1,6 @@
+body {
+    background-image: url("sample-pattern.png");
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

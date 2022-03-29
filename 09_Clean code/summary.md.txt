@@ -1,0 +1,26 @@
+Materi Clean Code.
+Section 9.
+
+Clean code adalah istilah untuk kode yang mudah dibaca, dipahami dan diubah oleh programer.
+
+"Bekerja dengan code tidak perlu membuat code dengan baik,karna code mu haruslah mudah dibaca, dimengerti dan dimodifikasi oleh orang lain maupun diri sendiri"
+-brandon gregory
+
+Ukuran atau kualitas code yang baik yaitu dilihat celahaan,
+jika terlalu banyak celah maka code tersebut menandakan buruk jika sedikit celahaan maka code tersebut baik.
+
+tujuan clean code
+1. work collaboration
+2. feature development = code mudah dipahami
+3. faster development = mempermudah proses selanjutnya.
+
+karakteristik clean code.
+1. penamaan mudah dipahami
+2. mmudah dieja dan dicari
+3. singkat namun mendeskripsikan konteks
+4. Konsisten
+5. hindari penamaan konteks yang tidak perlu
+6. gunakan komentar seperlunya saja
+7. good function, sebisa mungkin menggunakan local variabel
+8. menggunakan konveksi, js airbnb
+9. formatting. saran formating : lebar baris code 80-120 karakter, 1 class 300-500 baris, code yg berhubungan didekatkan, dekatkan fungsi dan penggunaan, deklarasi variabel berdekatan dengan penggunaan, indentasi, menggunakan prettier atau formatter

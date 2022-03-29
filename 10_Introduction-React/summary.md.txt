@@ -1,0 +1,37 @@
+INTROFUCTION REACT.
+
+React Beginner.
+website belajar react= reactjs.org/docs/getting-started.html
+
+React adalah library javascript untuk membuat user interfaces (UI) yang interaktif dan cepat pada web maupun mobile.
+React pertama kali dipakai oleh facebook menjadi text.
+React pada MVC(Model-view-controller), react js hanya akan mengambil peran pada layar view saja.
+react bisa digunakan untuk hal terkecil dalam code. 
+
+Library atau Framework untuk membuat UI
+- jQuery, library atau framework buat even handling, query, select dom.
+- Angular, yang maintance adalah google dan sekarang sudah di stop
+- view, as a framework
+- next.js, library Ui membuat website statis, bisa membuild dan mencompile front end menjadi statis.
+- gatsby, dapat membuat blog.
+
+Deklaratif 
+Berbasis Komponen, 
+belajar sekali, tulis dimana saja
+sudah teruji, netflix, facebook, bank btn menggunakan react
+teknologi yang popular
+
+V-DOM.
+Dom manipulation sudah seperti jantungnya web modern dan interactive web.
+masalah dom :
+1. dom manipulation secara manual dapat membuat code berantakan
+2. sulit untuk mengingat dom state sebelumnya
+3. jauh lebih lambat daripada operasi javascript pada umumnya.
+
+Outline React :
+1. tools yang diperlukan, browser : React devtools, chrome web store
+2. membuat aplikasi react menggunakan create react app
+3. anatomi dr react project.
+
+install Node js untuk belajar react.
+buat aplikasi react.js dengan 
