@@ -1,0 +1,16 @@
+GLOBAL STATE MANAGEMENT AND DATA FETCHING.
+
+Redux adalah library untuk manajemen state global.
+saat yang tepat untuk menggunakan Redux
+- Banyak state yang perlu ditaruh di banyak tempat
+- State pada app sering berubah
+- Logic untuk mengubah state kompleks
+- Ukuran codebase yang sedang-besar, dan dikerjakan oleh banyak orang
+- Perlu untuk mengetahui bagaimana state diupdate seiring dengan waktu
+
+Komponen penting dalam redux
+-Actions
+-Reducer
+-Store
+
+redux menggunakan beberapa tipe code

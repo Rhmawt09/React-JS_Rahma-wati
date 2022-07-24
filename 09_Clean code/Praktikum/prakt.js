@@ -23,3 +23,8 @@ class userservice{
 // Penjelasan code diatas 
 // code diatas dibuat tidak menggunakan ketentuan-ketentuan atau kebiasaan-kebiasaan yang disarankan.
 //
+
+var id; 
+    var username; 
+    var password;
+// pembuatan code yang lebih simple menggunakan prinsip Kiss - keep it simple

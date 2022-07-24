@@ -1,0 +1,10 @@
+REACT FORM.
+
+- Form merupakan salah satu hal krusial dalam pengembangan aplikasi website. Form dapat digunakan untuk menghandle inputan dari user.
+form sangat berguna untuk pembuatan website, bisa untuk login user, registrasi user dan lainnya.
+Elemen form HTML bekerja sedikit berbeda dari elemen DOM lainnya di React, karena elemen form secara natural menyimpan beberapa state internal. 
+
+- Form controlled dan uncontrolled memiliki kelebihannya sendiri. Kita perlu mengevaluasi situasi kita secara spesifik dan memilih pendekatan apa yang cocok untuk kondisi kita.
+Controlled component merupakan Sebuah elemen masukan form yang nilainya dikontrol oleh React dengan me-render sebuah form juga mengontrol apa yang terjadi dalam form tersebut pada masukan pengguna selanjutnya.
+ 
+- Validasi dilakukan agar data input sesuai dengan kebutuhan form.

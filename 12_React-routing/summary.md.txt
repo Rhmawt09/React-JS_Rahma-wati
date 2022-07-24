@@ -1,0 +1,13 @@
+REACT ROUTER 
+
+Router merupakan modul Dalam react yang berfungsi untuk melakukan proses navigasi pada SPA(Single page application).
+Route digunakan untuk merender UI saat path cocok dengan URL saat ini. Di dalam Component Route ini kita menggunakan exact, yang mana bertugas untuk memastikan Route hanya merender component yang memiliki path dan location.pathname yang cocok. Jika tidak ada yang cocok, maka Route yang akan 
+dirender yaitu Route terakhir dengan component Notfound.
+BrowserRouter digunakan sebagai router yang menggunakan API history dari HTML5, sehingga dapat menggunakan location untuk mensingkronasi UI dengan url. Di dalam object location sendiri merepresentasikan 
+dimana lokasi aplikasi sekarang.
+
+Multi Page Application (MPA) juga disebut dengan tradisional web app. adalah jenis aplikasi website dimana perlu memuat ulang seluruh halaman web setiap kali membuat permintaan baru.
+multi page application terdiri dari sejumlah halaman dan pengguna perlu memuat ulang seluruh halaman web setiap kali membuat permintaan baru.
+
+Single Page Application (SPA) adalah salah satu jenis aplikasi website dimana hanya ada 1 halaman yang menangani semua aktivitas yang terjadi dalam aplikasi tersebut.
+hanya menggunakan satu dokumen website saja untuk diimplementasikan pada aplikasi website.

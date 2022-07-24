@@ -1,0 +1,11 @@
+TOPIK 17 - TESTING
+
+Testing adalah proses memverifikasi bahwa test assertions kita benar dan bahwa code kita tetap benar sepanjang masa aplikasi.
+test asertion ini adalah ekspresi boolean yang mengembalikan nilai true kecuali ada bug di kode kita.
+manfaat testing :
+1. aplikasi akan mempunyai coverage yang baik
+2. mengurangi bug pada aplikasi
+
+kategori testing :
+1. rendering components tree
+2. menjalankan aplikasi lengkap

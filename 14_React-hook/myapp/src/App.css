@@ -1,0 +1,25 @@
+.header{
+  padding-left: 1rem;
+}
+.header2{
+  height: 1px;
+  box-shadow: 6px 7px 5px 0px rgb(0,0,0,0.5);
+}
+.todolist{
+  padding: 15px;
+
+}
+.todo{
+  border: 1px;
+  border-radius: 15px;
+  padding: 5px 10px;
+  margin: 10px;
+  border-style: solid;
+  max-width: fit-content;
+}
+
+#dropdown-basic{
+  margin-top: 15px !important;
+  background-color: white !important;
+  border: none !important;
+}

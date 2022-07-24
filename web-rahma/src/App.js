@@ -13,7 +13,7 @@ function App() {
         <div className='col-2 bg-dark'>
           <Sidebar/>
         </div>
-        <div className='col-10 bg-white text-dark'>
+        <div className='col-10 bg-dark text-white'>
           <Content/>
           </div>
         </div>

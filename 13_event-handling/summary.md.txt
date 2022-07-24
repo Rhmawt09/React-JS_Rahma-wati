@@ -1,0 +1,18 @@
+EVENT HANDLING
+
+State  adalah data private sebuah component dan bisa sebuah object untuk menyimpan data pada React dan akan di render 
+atau muat ulang ketika data mengalami perubahan.. Data ini hanya tersedia untuk component tersebut dan tidak bisa diakses dari component lain
+
+event handling  adalah suatu metode. penanganan keadaan dari browser atau input yang dimasukkan oleh pengguna. 
+Kita bisa mendapatkan tombol keyboard atau mouse yang ditekan atau perubahan pada browser dan isinya. untuk menangani sebuah event / aksi yang diberikan 
+pengguna kepada suatu komponen
+
+Event  Adalah suatu peristiwa yang dipicu oleh pengguna pada suatu komponen, misalnya tombol ditekan dan seperti kejadian yang terjadi di halaman web. 
+Kejadian yang dimaksud di sini seperti aktivitas yang dikerjakan pada halaman web.
+
+Misalnya seperti:
+User melakukan scroll;
+User melakukan klik pada elemen tertentu;
+Halaman web di-load;
+Form di-submit;
+dan sebagainya.

@@ -1,0 +1,9 @@
+React Fundamental 
+
+JSX merupakan singkatan dari Javascript XML dan merupakan eksistensi dari JavaScript.
+    const element = <h1> Hello, world! <h1>;
+JSX Dibuatkan berdasarkan fakta kalau logika rendering sangat terikat dengan logic UI.
+
+Komponen react adalah bagian adalah bagian kode yang dapat digunakan kembali untuk menentukan Tampilan, behaviour, state sebagai UI.
+
+Props merupakan singkatan dari properties yang dapat memberikan data pada komponen. 

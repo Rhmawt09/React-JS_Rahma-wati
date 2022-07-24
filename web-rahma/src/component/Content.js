@@ -1,16 +1,27 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
 
-function Content () {
+export default content = () => {
+    const [posts, setPosts] = useState([])
+
+    useEffect(() => {
+        const url = 'https://jsonplaceholder.typicode.com/posts'
+        fetch(url, { method: GET })
+             .then(res => res.json())
+             .then(json => {
+                 console.log("data belajar", json)
+                 setPosts(json)
+             })
+    }, [posts])
+
     return (
-        <div container my-5 >
-            <div row text-center >
-              <h1> Goobne Website Application. </h1>
-              <p> Hello! I'm Rahmawati, a full-stack engineer based in Palembang, IDN who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends. 
-                        Shortly after graduating from Alterra Academy, I joined the engineering team at Alterra where I work on a wide variety of interesting and meaningful projects on a daily basis.
-                        Here's few technologies I've been working with recently  </p>
-            </div>
+        <div className='container-fluid mt-4'>
+            <h1> Selamat Datang di Indomaret, Selamat Berbelanja !</h1>
+            <h3> Temukan barang yang anda inginkan dengan berbelanja disini </h3>
+            <div className='row'>
+                <h4>{Element.title}</h4>
+
+                </div>
         </div>
     )
-}
 
-export default Content 
+}

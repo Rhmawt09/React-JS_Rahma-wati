@@ -1,0 +1,19 @@
+REACT HOOK.
+Hooks merupakan fitur yang dimana kita dapat menggunakan state dan fitur React yang lain tanpa perlu menulis sebuah kelas.
+Hooks Pada React :
+Hooks Dasar :
+useState
+useEffect
+useContext
+
+Hooks Tambahan :
+useReducer
+useCallback
+useMemo
+useRef
+useImperativeHandle
+useLayoutEffect
+useDebugValue
+
+Effect Hook memungkinkan Anda melakukan efek samping (side effects) didalam function component:
+

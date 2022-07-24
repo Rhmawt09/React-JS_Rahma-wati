@@ -1,4 +1,4 @@
-INTROFUCTION REACT.
+INTRODUCTION REACT.
 
 React Beginner.
 website belajar react= reactjs.org/docs/getting-started.html
